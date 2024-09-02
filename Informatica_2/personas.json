@@ -1,0 +1,64 @@
+{
+    "personas": [
+      {
+        "nombre": "Juan Perez",
+        "edad": 30,
+        "correo": "juan.perez@example.com",
+        "hobbies": ["fútbol", "lectura", "viajar"]
+      },
+      {
+        "nombre": "Ana Gómez",
+        "edad": 25,
+        "correo": "ana.gomez@example.com",
+        "hobbies": ["pintura", "música"]
+      },
+      {
+        "nombre": "Carlos López",
+        "edad": 35,
+        "correo": "carlos.lopez@example.com",
+        "hobbies": ["ciclismo", "ajedrez"]
+      },
+      {
+        "nombre": "Marta Ruiz",
+        "edad": 28,
+        "correo": "marta.ruiz@example.com",
+        "hobbies": ["cocina", "bailar", "fotografía"]
+      },
+      {
+        "nombre": "Luis Martínez",
+        "edad": 40,
+        "correo": "luis.martinez@example.com",
+        "hobbies": ["golf", "videojuegos"]
+      },
+      {
+        "nombre": "Lucía Fernández",
+        "edad": 22,
+        "correo": "lucia.fernandez@example.com",
+        "hobbies": ["yoga", "escribir", "viajar"]
+      },
+      {
+        "nombre": "Pedro Sánchez",
+        "edad": 31,
+        "correo": "pedro.sanchez@example.com",
+        "hobbies": ["natación", "pesca"]
+      },
+      {
+        "nombre": "Elena Castro",
+        "edad": 27,
+        "correo": "elena.castro@example.com",
+        "hobbies": ["correr", "meditación", "leer"]
+      },
+      {
+        "nombre": "Diego Vargas",
+        "edad": 33,
+        "correo": "diego.vargas@example.com",
+        "hobbies": ["fotografía", "cine", "viajar"]
+      },
+      {
+        "nombre": "Sara Morales",
+        "edad": 29,
+        "correo": "sara.morales@example.com",
+        "hobbies": ["dibujo", "jardinería", "moda"]
+      }
+    ]
+}  
